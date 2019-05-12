@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParallelBioComputing", "ParallelBioComputing.vcxproj", "{DDEDD6E1-2CBA-4C40-B239-4EEB8653923C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDEDD6E1-2CBA-4C40-B239-4EEB8653923C}.Debug|x64.ActiveCfg = Debug|x64
+		{DDEDD6E1-2CBA-4C40-B239-4EEB8653923C}.Debug|x64.Build.0 = Debug|x64
+		{DDEDD6E1-2CBA-4C40-B239-4EEB8653923C}.Debug|x86.ActiveCfg = Debug|Win32
+		{DDEDD6E1-2CBA-4C40-B239-4EEB8653923C}.Debug|x86.Build.0 = Debug|Win32
+		{DDEDD6E1-2CBA-4C40-B239-4EEB8653923C}.Release|x64.ActiveCfg = Release|x64
+		{DDEDD6E1-2CBA-4C40-B239-4EEB8653923C}.Release|x64.Build.0 = Release|x64
+		{DDEDD6E1-2CBA-4C40-B239-4EEB8653923C}.Release|x86.ActiveCfg = Release|Win32
+		{DDEDD6E1-2CBA-4C40-B239-4EEB8653923C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA2EC2CC-6029-4130-930A-806BE75EB7F9}
+	EndGlobalSection
+EndGlobal
