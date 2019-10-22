@@ -1,1 +1,1 @@
-# ParallelNeedlemanWunsch
+# Paralel Bilgisayarlar dersi için C++ dilinde ekip olarak geliştirdiğimiz bu projede 15000 DNA dizisine sahip bir verinin, her dna dizisinin birbiri ile kıyaslanması gerekmetedir. OPENMP kullanarak paralel programlama yapılmıştır. Böylece günler alabilecek bu karşılaştırmalar saatler içerisinde sonlanmıştır.
